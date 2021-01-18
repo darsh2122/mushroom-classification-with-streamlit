@@ -1,4 +1,4 @@
-#Mushroom Classification using streamlit library
+# Mushroom Classification using streamlit library
 to install and run application:
 ```
 pip install -r requirements.txt
